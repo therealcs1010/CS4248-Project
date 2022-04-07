@@ -19,7 +19,7 @@ They contain the various models that have been done and also include additional 
 
 Has a catalogue of stored models that have been pre-trained and ready for test and use.
 
-`Fatin`
+`Fatin` - Implementation of various classical models such as Naive Bayes, Decision Trees, Logistic Regression, SGDClassifier and neural networks.
 
 `Ailanthus` - Implementation of the Support Vector Machine model and also a simple CNN implementation with some data.
 
